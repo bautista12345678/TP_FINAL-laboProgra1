@@ -1,0 +1,121 @@
+﻿  Cavion.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(12,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(16,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(20,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(51,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(53,6): error C2819: el tipo 'cCodigo' no tiene un miembro sobrecargado 'operator ->'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\cCodigo.h(5): message : vea la declaración de 'cCodigo'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(53,6): message : ¿deseaba utilizar '.' en su lugar?
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(53,6): error C2232: '->cCodigo::getDNI': el operando izquierdo tiene el tipo 'class'; utilice '.'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(53,6): error C2232: '->cCodigo::getsector': el operando izquierdo tiene el tipo 'class'; utilice '.'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(53,6): error C2232: '->cCodigo::getfila': el operando izquierdo tiene el tipo 'class'; utilice '.'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cavion.cpp(53,6): error C2232: '->cCodigo::getletra': el operando izquierdo tiene el tipo 'class'; utilice '.'
+  Cazafata.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(13,19): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+  CclaseDeServicio.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.cpp(41,28): error C2660: 'Cazafata::llevarBebida': la función no acepta 1 argumentos
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,7): message : vea la declaración de 'Cazafata::llevarBebida'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.cpp(51,28): error C2660: 'Cazafata::llevarComida': la función no acepta 1 argumentos
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,7): message : vea la declaración de 'Cazafata::llevarComida'
+  Ccomisario.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Ccomisario.cpp(16,23): warning C4018: '<': no coinciden signed/unsigned
+  Ccopiloto.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(13,19): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(16,26): error C2061: error de sintaxis: identificador 'Cpiloto'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(17,26): error C2061: error de sintaxis: identificador 'Cpiloto'
+  Cejecutivo.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cejecutivo.cpp(31,50): error C2248: 'CclaseDeServicio::Azafata': no se puede obtener acceso al miembro private miembro declarado en la clase 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11): message : vea la declaración de 'CclaseDeServicio::Azafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(3): message : vea la declaración de 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cejecutivo.cpp(32,49): error C3867: 'Cejecutivo::getnotebook': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+  Cpasajero.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+  Cpiloto.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(11,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\CclaseDeServicio.h(13,19): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(16,26): error C2061: error de sintaxis: identificador 'Cpiloto'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(17,26): error C2061: error de sintaxis: identificador 'Cpiloto'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.cpp(47,34): error C2660: 'Cazafata::llevarBebidaPiloto': la función no acepta 1 argumentos
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(17,7): message : vea la declaración de 'Cazafata::llevarBebidaPiloto'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.cpp(52,34): error C2660: 'Cazafata::llevarComidaPiloto': la función no acepta 1 argumentos
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(16,7): message : vea la declaración de 'Cazafata::llevarComidaPiloto'
+  CprimeraClase.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+  Cturista.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+  main.cpp
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(7,19): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(11,39): error C2061: error de sintaxis: identificador 'Cazafata'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cpiloto.h(18,18): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(14,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(15,20): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\Cazafata.h(19,21): error C2061: error de sintaxis: identificador 'CclaseDeServicio'
+C:\Users\Bautista Valdes\source\repos\tpfinal\tpfinal\main.cpp(39,60): error C2661: 'Cpiloto::Cpiloto': ninguna función sobrecargada acepta 3 argumentos
+  Generando código...
